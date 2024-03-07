@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **iOS Development**
 
-- 📝 I regularly write articles on [https://medium.com/@utaputranto](https://medium.com/@utaputranto)
-
 - 💬 Ask me about **Android Native**
 
 - 📫 How to reach me **utaputranto@gmail.com**
