@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on **Ocean Innovation Technology as Android Developer**
 
-- 🌱 I’m currently learning **iOS Development**
-
 - 💬 Ask me about **Android Native**
 
 - 📫 How to reach me **utaputranto@gmail.com**
